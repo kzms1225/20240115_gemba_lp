@@ -2,12 +2,12 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 150px;
+    height: 100px;
     padding: 0 30px;
 }
 
 .header-img {
-    width: 12vw;
+    width: 11vw;
 }
 
 .header-nav-list {
@@ -15,8 +15,8 @@
 }
 
 .header-nav-item {
-    margin-right: 30px;
-    font-size: 35px;
+    margin-right: 40px;
+    font-size: 20px;
 }
 
 a {
@@ -42,8 +42,8 @@ a {
 
 .absolute-title {
     font-family: 'Gorditas', serif;
-    font-size: 110px;
-    line-height: 200px;
+    font-size: 60px;
+    line-height: 120px;
     color: #B31667;
 }
 
@@ -52,16 +52,16 @@ a {
 }
 
 .absolute-text1 {
-    font-size: 45px;
-    margin-top: 160px;
+    font-size: 25px;
+    margin-top: 30px;
     color: #B31667;
     font-weight: bold;
 }
 
 .absolute-text2 {
-    font-size: 30px;
+    font-size: 20px;
     margin-top: 20px;
-    line-height: 50px;
+    line-height: 40px;
     color: #6E6E6E;
 }
 
@@ -75,7 +75,7 @@ a {
 }
 
 .news-title {
-    font-size: 50px;
+    font-size: 40px;
     color: #6F6F6F;
 }
 
@@ -83,21 +83,21 @@ a {
     content: "News";
     margin-left: 25vw;
     font-family: 'Gorditas', serif;
-    font-size: 30px;
+    font-size: 20px;
     color: rgb(188, 16, 101);
 
 }
 
 .news-list {
-    margin-top: 50px;
-    margin-left: 25vw;
-    margin-right: 25vw;
+    margin-top: 40px;
+    margin-left: 20vw;
+    margin-right: 20vw;
     list-style-type: none;
-    font-size: 30px;
+    font-size: 20px;
     line-height: normal;
     border-top: solid 8px #D2D2D2;
     border-bottom: solid 8px #D2D2D2;
-    padding: 50px 0px;
+    padding: 40px 0px;
 }
 
 .news-item {
@@ -121,7 +121,7 @@ a {
 }
 
 .about-zone {
-    margin: 0px 500px;
+    margin: 0px 200px;
     padding: 100px 0px;
 }
 
@@ -135,7 +135,7 @@ a {
 }
 
 .about-title {
-    font-size: 50px;
+    font-size: 40px;
     color: #6F6F6F;
     margin-top: 20px;
 }
@@ -143,7 +143,7 @@ a {
 .about-zone-title::before {
     content: "About";
     font-family: 'Gorditas', serif;
-    font-size: 30px;
+    font-size: 20px;
     color: rgb(188, 16, 101);
 }
 
@@ -153,21 +153,21 @@ a {
 }
 
 .about-card-content {
-    font-size: 30px;
+    font-size: 20px;
     color: #6E6E6E;
 }
 
 .about-card-content-tt1 {
-    line-height: 50px;
+    line-height: 35px;
 }
 
 .about-card-content-tt2 {
-    line-height: 50px;
+    line-height: 35px;
     margin-top: 40px;
 }
 
 .service-zone {
-    margin: 200px 450px;
+    margin: 200px 200px;
 }
 
 .service-card {
@@ -177,7 +177,7 @@ a {
 }
 
 .service-title {
-    font-size: 50px;
+    font-size: 40px;
     color: #6F6F6F;
     margin: 20px 0px;
 }
@@ -185,7 +185,7 @@ a {
 .service-zone-title::before {
     content: "Service";
     font-family: 'Gorditas', serif;
-    font-size: 30px;
+    font-size: 20px;
     color: rgb(188, 16, 101);
 }
 
@@ -200,28 +200,28 @@ a {
 }
 
 .service-img1 {
-    width: 11vw;
-    margin-top: 80px;
+    width: 12vw;
+    margin-top: 30px;
 }
 
 .service-title1 {
-    font-size: 35px;
-    margin: 50px auto;
+    font-size: 25px;
+    margin: 10px auto;
     text-align: center;
     color: #FFFBFF;
 }
 
 .service-content1 {
-    font-size: 30px;
-    line-height: 60px;
-    margin: 0px 100px;
+    font-size: 15px;
+    line-height: 30px;
+    margin: 0px 80px;
     color: #FFFBFF;
 }
 
 .service-card-2 {
     background-color: #B35B8B;
     width: 35vw;
-    height: 15svh;
+    height: 15vh;
     display: flex;
 }
 
@@ -230,18 +230,18 @@ a {
 }
 
 .service-card-content {
-    margin: 50px;
+    margin: 30px;
 }
 
 .service-title2 {
-    font-size: 35px;
+    font-size: 25px;
     color: #FFFBFF;
-    margin: 50px 0px;
+    margin: 20px 0px;
 }
 
 .service-content2 {
-    font-size: 30px;
-    line-height: 60px;
+    font-size: 15px;
+    line-height: 30px;
     color: #FFFBFF;
 }
 
@@ -257,14 +257,14 @@ a {
 }
 
 .service-title3 {
-    font-size: 35px;
+    font-size: 25px;
     color: #FFFBFF;
-    margin: 50px 0px;
+    margin: 20px 0px;
 }
 
 .service-content3 {
-    font-size: 30px;
-    line-height: 60px;
+    font-size: 15px;
+    line-height: 30px;
     color: #FFFBFF;
 }
 
@@ -273,25 +273,25 @@ a {
 }
 
 .blog-zone {
-    margin: 0px 450px;
+    margin: 0px 200px;
     padding: 100px 0px;
 }
 
 .blog-title {
-    font-size: 50px;
+    font-size: 40px;
     color: #6F6F6F;
     margin: 20px 0px 50px;
 }
 
 .blog-zone-title::before {
-    content: "Service";
+    content: "Brog";
     font-family: 'Gorditas', serif;
-    font-size: 30px;
+    font-size: 20px;
     color: rgb(188, 16, 101);
 }
 
 .blog-img {
-    width: 20vw;
+    width: 21vw;
     border-radius: 30px 30px 0px 0px;
 }
 
@@ -305,7 +305,7 @@ a {
 }
 
 .card-cat {
-    font-size: 30px;
+    font-size: 20px;
     background-color: #B31667;
     width: 20%;
     text-align: center;
@@ -318,57 +318,57 @@ a {
 
 .card-content {
     background-color: white;
-    height: 7vh;
+    height: 10vh;
     border-radius: 0px 0px 30px 30px;
-    padding: 40px 50px;
+    padding: 20px 40px;
     color: #939393;
 }
 
 .card-content-title {
-    font-size: 30px;
-    line-height: 50px;
-    margin-top: 20px;
+    font-size: 16px;
+    line-height: 30px;
+    margin-top: 10px;
 }
 
 .card-content-tag {
     display: flex;
     justify-content: space-between;
-    font-size: 30px;
-    margin-top: 60px;
+    font-size: 16px;
+    margin-top: 30px;
 }
 
 .botan {
-    font-size: 30px;
+    font-size: 20px;
     font-weight: bold;
     text-align: center;
     color: #BE1266;
-    width: 300px;
+    width: 200px;
     margin: 70px auto 0px;
-    padding: 50px 50px;
+    padding: 30px 30px;
     border: solid 3px #BE1266;
     border-radius: 70px;
 }
 
 .company-zone {
-    margin: 0px 700px;
+    margin: 0px 300px;
     padding: 100px 0px;
 }
 
 .company-title {
-    font-size: 50px;
+    font-size: 40px;
     color: #6F6F6F;
     margin: 20px 0px 50px;
 }
 
 .company-zone-title::before {
-    content: "Service";
+    content: "Company";
     font-family: 'Gorditas', serif;
-    font-size: 30px;
+    font-size: 20px;
     color: rgb(188, 16, 101);
 }
 
 table {
-    width: 50vw;
+    width: 60vw;
     border-collapse: collapse;
 }
 
@@ -376,7 +376,7 @@ table th,
 table td {
     border: 1px solid #ccc;
     padding: 30px;
-    font-size: 30px;
+    font-size: 20px;
     color: #666666;
 }
 
@@ -398,14 +398,14 @@ table th {
 }
 
 .section-title-1 {
-    font-size: 50px;
+    font-size: 40px;
     position: absolute;
     top: 45%;
     left: 40%;
     color: #F9F9F9;
 }
 
-.mv2{
+.mv2 {
     width: 50%;
     position: relative;
 }
@@ -415,7 +415,7 @@ img {
 }
 
 .section-title-2 {
-    font-size: 50px;
+    font-size: 40px;
     position: absolute;
     top: 45%;
     left: 35%;
@@ -427,26 +427,26 @@ img {
 }
 
 .footer-title {
-    font-size: 35px;
+    font-size: 30px;
     color: #666666;
 }
 
 .footer-border {
-    border-left: 8px solid #BA2C6D;
-    height: 2vh;
-    margin: 20px 1450px;
+    border-left: 5px solid #BA2C6D;
+    height: 3vh;
+    margin: 10px 730px;
 }
 
 .form-btn {
     border-radius: 80px;
-    margin: 30px auto;
+    margin: 10px auto;
     padding: 50px;
-    width: 550px;
+    width: 500px;
     display: block;
     background: #5bc8ac;
     color: #fff;
     font-weight: bold;
-    font-size: 35px;
+    font-size: 30px;
     border: none;
     background: linear-gradient(90deg, #F21D89, #B71568);
     box-shadow: 0 20px 0 rgb(132, 0, 80);
@@ -456,11 +456,10 @@ img {
     background-color: #F5F5F5;
     text-align: center;
     margin-top: 130px;
-    padding: 80px;
+    padding: 30px;
 }
 
 .copy-right {
-    font-size: 30px;
+    font-size: 20px;
     color: #666666;
 }
-
