@@ -173,7 +173,6 @@ a {
 .service-card {
     display: flex;
     margin: 30px 0px;
-    height: 30vh;
 }
 
 .service-title {
@@ -221,7 +220,6 @@ a {
 .service-card-2 {
     background-color: #B35B8B;
     width: 40vw;
-    height: 15vh;
     display: flex;
 }
 
@@ -249,7 +247,6 @@ a {
 .service-card-3 {
     background-color: #B2889E;
     width: 40vw;
-    height: 15vh;
     display: flex;
 }
 
@@ -320,23 +317,23 @@ a {
 
 .card-content {
     background-color: white;
-    height: 13vh;
     width: 100%;
     border-radius: 0px 0px 30px 30px;
     color: #939393;
 }
 
 .card-content-title {
-    font-size: 15px;
+    font-size: 14px;
     line-height: 30px;
-    margin: 0 3vw;
+    margin-left: 2vw;
     padding: 2vh 0;
 }
 
 .card-content-tag {
     display: flex;
-    font-size: 16px;
-    margin: 1vh 1vw;
+    font-size: 14px;
+    margin: 1vw;
+    padding: 1vh 0 2vh 0;
 }
 
 .card-content-tag-item {
