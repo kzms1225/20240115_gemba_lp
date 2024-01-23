@@ -120,12 +120,12 @@ a {
 }
 
 .about-zone {
-    margin: 0px 10vw;
+    margin: 0px 8vw;
     padding: 4vh 0px;
 }
 
 .about-card-img {
-    width: 25vw;
+    width: 40%;
     margin: 0px 0px 0px auto;
 }
 
@@ -440,12 +440,12 @@ img {
 }
 
 .form-btn {
+    position: relative;
     border-radius: 80px;
     margin: 10px auto;
     padding: 50px;
-    width: 500px;
+    width: 400px;
     display: block;
-    background: #5bc8ac;
     color: #fff;
     font-weight: bold;
     font-size: 30px;
@@ -455,7 +455,16 @@ img {
 }
 
 .form-btn::before {
-    content: url(../img/mailicon.svg);
+    position: absolute;
+    content: "";
+    background: url(../img/mailicon.svg);
+    top: 50%;
+    left: 6vw;
+    display: inline-block;
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    transform: translateY(-50%);
 }
 
 .footer-bottom {
